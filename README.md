@@ -1,0 +1,1 @@
+Files should have .blend extension.
